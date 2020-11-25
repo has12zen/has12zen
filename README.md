@@ -1,4 +1,4 @@
-### Alola, 👋
+### Hello, 👋
 
 <!--
 **has12zen/has12zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +6,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on GitHub
-- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with Academics
-- 💬 Ask me about Node/C
+- 🤔 I’m looking for help with internships
+- 💬 Ask me about Node/C/C++
 
 ----
 ### Cool Stats
