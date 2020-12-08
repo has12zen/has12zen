@@ -1,8 +1,9 @@
-<img src="header.svg" alt="banner" width="80%" align="center" />
-
+<p align="center">
+<img src="header.svg" alt="banner" width="80%" />
+</p>
 <!--
 **has12zen/has12zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+----
 Here are some ideas to get you started:
 -->
 
@@ -13,12 +14,14 @@ Here are some ideas to get you started:
 ----
 ### Cool Stats
 <p align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=has12zen&theme=highcontrast" alt="Github Streak Stats" />
+    </a>
     <br>
-    <a href="https://github-readme-stats.vercel.app/api?username=has12zen&show_icons=true&theme=dark">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=has12zen&show_icons=true&theme=dark" height="190px"  width="45%"  alt="Github Stats" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=has12zen">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=has12zen&langs_count=3&theme=dark&layout=compact" height="190px" width="45%" alt="Github Stats" />
 </a>
 </p>
@@ -29,5 +32,3 @@ Here are some ideas to get you started:
 <a href="https://dev.to/has12zen/"><img
             src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>
 
-
-[Customize your repo](https://github.com/anuraghazra/github-readme-stats)
