@@ -11,8 +11,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with internships
 - 💬 Ask me about Node/C/C++
 - ❤ JavaScript and C++
-----
+
+---
+
 ### Cool Stats
+
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=has12zen&theme=highcontrast" alt="Github Streak Stats" />
@@ -27,8 +30,8 @@ Here are some ideas to get you started:
 </p>
 
 ### Other platforms
+
 <a href="https://www.linkedin.com/in/harshit-arun-sapkal-841a84194/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dev.to/has12zen/"><img
             src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>
-
