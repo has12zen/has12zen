@@ -17,14 +17,12 @@ Here are some ideas to get you started:
 ### Cool Stats
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=has12zen&theme=highcontrast" alt="Github Streak Stats" />
-    </a>
     <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=has12zen&show_icons=true&theme=dark" height="190px"  width="45%"  alt="Github Stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=has12zen&langs_count=3&theme=dark&layout=compact" height="190px" width="45%" alt="Github Stats" />
 </a>
 </p>
