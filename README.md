@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=has12zen&langs_count=3&theme=dark&layout=compact" height="190px" width="45%" alt="Github Stats" />
 </a>
+    [![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=jetsai&theme=Dark)](https://github.com/has12zen/leetcode-stats)
 </p>
 
 ### Other platforms
