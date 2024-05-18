@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Other platforms
 
-<a href="https://www.linkedin.com/in/harshit-arun-sapkal-841a84194/"><img
+<a href="https://www.linkedin.com/in/harshit-a-sapkal/"><img
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dev.to/has12zen/"><img
             src="https://img.shields.io/badge/dev-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>
