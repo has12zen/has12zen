@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 👯 I’m looking to collaborate on React
-- 🤔 I’m looking for help with internships
+- 🤔 I’m can help you with JavaScript/Python.
 - 💬 Ask me about Node/C/C++
 - ❤ JavaScript and C++
 
